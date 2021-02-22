@@ -1,9 +1,9 @@
-# Landing Page EasyBank
-## Esse projeto consiste na criação de uma Landing page 
+## :collision:Landing Page EasyBank:collision:
+### Esse projeto consiste na criação de uma Landing page 
 
-## Com esse projeto eu queria montar um site totalmente responsivo
+### Com esse projeto eu queria montar um site totalmente responsivo
 
-# Tecnologia utilizadas
+## :computer:Tecnologia utilizadas:computer:
 
 - [ ] HTML
 - [ ] CSS
